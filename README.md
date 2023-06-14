@@ -1,4 +1,4 @@
-###### [@shan](#shan)
+###### [@ShannModerz](#Shann)
 <p align="center">
 <a href="https://ibb.co/kJzZTmP"><img src="https://i.ibb.co/FXcp1Hd/vector-illustration-of-semar-ai.png"</a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=964B00&width=435&lines=SCRIPT DOSA MULTI DEVICE;CREATED+BY+SHAN+MODS" alt="Typing SVG" /></a>
@@ -10,10 +10,10 @@
 <a href="https://github.com/dcode-denpa/Semar-BMD"><img src="https://img.shields.io/github/forks/dcode-denpa/Semar-BMD.svg"</a>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
-script scam di buat oleh shan mods tampilan di buat oleh Faris-mods script di buat untuk tujun pembelajaran/kebaikan jadi janggan di salah gunakan by Faris-mods
+script phising ini di buat oleh ShannModerz. style README.md di buat oleh Faris-Mods script di buat untuk tujun pembelajaran/kebaikan jadi janggan di salah gunakan
 
 <details close="close">
-<summary>scipt Ini Dikembangkan Oleh <b>shan mods</b></summary>
+<summary>scipt Ini Dikembangkan Oleh <b>ShannModerz</b></summary>
 <a href="http://wa.me/6281235686975"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp"></a>
 </details><details close="close"><summary>Tutorial Menginstall <b>Dosaa</b></summary>
 
@@ -84,7 +84,11 @@ chmod +x make-deb.sh
 <details open="open"><summary>Added <b>New Features</b></summary>
 
 ```
-NO BUG 
+Spesial Thanks To
+@ShannModerz 
+@Faris-Mods
+@zphisher
+@Blackeye
 ```
 </details>
 
